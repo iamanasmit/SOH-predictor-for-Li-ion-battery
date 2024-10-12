@@ -1,4 +1,0 @@
-Cell1_C1ch.csv filter=lfs diff=lfs merge=lfs -text
-Cell1_C1dc.csv filter=lfs diff=lfs merge=lfs -text
-Cell1_OCVch.csv filter=lfs diff=lfs merge=lfs -text
-Cell1_OCVdc.csv filter=lfs diff=lfs merge=lfs -text
